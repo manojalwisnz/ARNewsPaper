@@ -1,0 +1,41 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "arun.arreferenceimage"
+    },
+    {
+      "filename" : "chirag.arreferenceimage"
+    },
+    {
+      "filename" : "cocacola.arreferenceimage"
+    },
+    {
+      "filename" : "harry1.arreferenceimage"
+    },
+    {
+      "filename" : "harry3.arreferenceimage"
+    },
+    {
+      "filename" : "harry4.arreferenceimage"
+    },
+    {
+      "filename" : "harry5.arreferenceimage"
+    },
+    {
+      "filename" : "harry6.arreferenceimage"
+    },
+    {
+      "filename" : "harrypotter.arreferenceimage"
+    },
+    {
+      "filename" : "sahil.arreferenceimage"
+    },
+    {
+      "filename" : "totla.arreferenceimage"
+    }
+  ]
+}
